@@ -11,12 +11,11 @@ hasCJKLanguage = true
   series = "series"
 
 [params]
-    author = "Your Name"
-    avatar = "avatar.jpg"
+    author = "Avery"
+    avatar = "lion.jpg"
     favicon = "favicon.ico"
     description = """
-        Please write anything here.
-        Profiles, backgrounds, favorite things etc.
+        Welcome to my website about cats.
     """
     publicationYear = "2019"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
