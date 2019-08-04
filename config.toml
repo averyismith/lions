@@ -9,13 +9,14 @@ hasCJKLanguage = true
 
 [taxonomies]
   series = "series"
+  blog = "blogs"
 
 [params]
     author = "Avery"
     avatar = "lion.jpg"
     favicon = "favicon.ico"
     description = """
-        Welcome to my website about cats.
+        Welcome to my website about lions.
     """
     publicationYear = "2019"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
